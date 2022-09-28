@@ -8,5 +8,7 @@ public class Demos {
     public static void main(String[] args) {
         System.out.println("Hello Git!");
         System.out.println("Hello Again!");
+        System.out.println("New branch~");
+        System.out.println("What?");
     }
 }
